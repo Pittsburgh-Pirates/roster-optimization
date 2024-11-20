@@ -1,0 +1,34 @@
+[
+	{
+		"player": {
+			"id": 12345,
+			"firstName": "first",
+			"lastName": "",
+			"image": {
+				"src": "",
+				"alt": ""
+			}
+		},
+		"team": {
+			"orgId": "",
+			"image": {
+				"src": "",
+				"alt": ""
+			},
+			"teamId": "",
+			"levelOfPlay": ""
+		},
+		"assetValues" : {
+			"default": "balanced",
+			"balanced": 0,
+			"currentSeasonHeavy": 0,
+			"futureHeavy": 0
+		},
+		"salary": {
+			"2024": "",
+			"2025": ""
+		}
+		
+		
+	}
+]
